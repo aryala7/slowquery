@@ -1,0 +1,12 @@
+{
+    "name": "aryala/slow-query",
+    "description": "find slow queries",
+    "type": "metapackage",
+    "minimum-stability": "alpha",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "aryala\\slow-query\\": "src/"
+        }
+    }
+}
